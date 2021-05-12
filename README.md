@@ -2,7 +2,7 @@
 Code is coming soon.
 
 ## About
-Source code of the paper [Improving Generalization in Meta-learning via Task Augmentation](https://https://arxiv.org/abs/2007.13040)
+Source code of the paper [Improving Generalization in Meta-learning via Task Augmentation](https://arxiv.org/abs/2007.13040)
 
 If you find this repository useful in your research, please cite the following paper:
 ```
