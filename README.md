@@ -1,7 +1,7 @@
 # MetaMix
 
 ## About
-Source code of the paper [Improving Generalization in Meta-learning via Task Augmentation](https://arxiv.org/abs/2007.13040). This code is built based upon the pytorch implementation of few-shot learning [few-shot](https://github.com/oscarknagg/few-shot) and the implementation of [MAML++](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch), [MR-MAML](https://github.com/mingzhang-yin/Meta-learning-without-memorization).
+Source code of the paper [Improving Generalization in Meta-learning via Task Augmentation](https://arxiv.org/abs/2007.13040). This code is built upon the pytorch implementation of few-shot learning [few-shot](https://github.com/oscarknagg/few-shot) and the implementation of [MAML++](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch), [MR-MAML](https://github.com/mingzhang-yin/Meta-learning-without-memorization).
 
 
 If you find this repository useful in your research, please cite the following paper:
